@@ -1,0 +1,149 @@
+body{
+	margin:0;
+	padding:0;
+	border:0;
+}
+#top_menu{
+			background-color: #000;
+			width: inherit;
+			text-align: center;
+			color: white;
+			padding: 10px;
+			border-top: none;
+			border-left: none;
+		}
+		#top_menu a:link{
+			color: white;
+			text-decoration: none;
+		}
+		#top_menu a:hover{
+			text-decoration: underline;
+			color: white;
+		}
+		#heade{
+			text-align: center;
+			background-color: rgb(0,50,100);
+		}
+		#heade a:link{
+			text-decoration: none;
+		}
+		#heade a:hover{
+			text-decoration: underline;
+		}
+		#img_logo{
+			width:30px;
+			height: 30px;
+			margin-left: 24%;
+		}
+		#uniname{
+			font-family: courier;
+			font-size: 30px;
+			font-weight: bolder;
+			color: white;
+		}
+		#topmenu2{
+			font-family: courier;
+			font-size: 15px;
+			color: #ffffff
+		}
+		#topmenu2 a{
+			font-size: 20px;
+			font-weight: bold;
+			color: white;
+		}
+		#topmenu2 a:link{
+			text-decoration: none;
+		}
+		#topmenu2 a:hover{
+			color: #ffd755;
+		}
+		#upperblue{
+			background-color: rgb(00,50,100);
+			height: 200px;
+			width: inherit;
+		}
+		#mainpage{
+			width: 940px;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			padding: 10px 15px 1px 15px;
+			background-image: url("Oaumages/bg-shadow.png");
+			border-collapse: 5px;
+		}
+		body{
+			background-color: #ffffff
+		}		
+		#footer_box a:link{
+			text-decoration: none;
+			color: #555555
+		}
+		a:link{
+			text-decoration: none;
+			color: #6666ff;
+		}
+		a:hover{
+			text-decoration: underline;
+			color: #6666ff;
+		}
+		#newsvent{
+			color: gray;
+			font-style: courier;
+			font-weight: bold;
+			text-align: left;
+		}
+		#header_search{
+			margin-top: 38px;
+			text-align: center;
+		}
+		#header_search #search-input{
+			font-size: 12px;
+			padding: 2px 5px;
+		}
+		#header_search #search-submit{
+			width: 66px;
+			height: 26px;
+			border: none;
+			border-radius: 2px;
+			color: #6666ff;
+			font-size: 12px;
+			font-weight: bold;
+			font-family: courier;
+		}
+		#footer_box{
+			margin: 0 !important;
+			padding: 0 !important;
+			width: 100%;
+			float: left;
+		}
+		.footer{
+				background:#fff;
+				width:955px;
+				margin: 0 auto;
+				background: url(Oaumages/bg-shadow.png) repeat-y top center;
+				padding: 10px 0px 5px 15px;
+		}
+		.footer_box_{
+			font-size: 15px;
+			font-weight: bold;
+			width: 25%;
+			float: left;
+		}
+		.footer_box_ ul,.footer_box_ ul li{
+			padding: 0;
+			margin: 0;
+		}
+		.footer_box_ ul li{
+			margin-bottom: 3px;
+		}
+		.tablebox{
+			width: 400px;
+			height: 100px;
+			border: 2px solid rgb(0,50,100);
+			border-radius: 15px;
+			padding: 30px 50px;
+			margin-left: 200px;
+			text-align: center;
+
+		}
